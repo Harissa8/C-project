@@ -1,2 +1,2 @@
 # C-project
-C project Ensta Bretagne
+Note: sometime the code take much time to merge the images pixels.
