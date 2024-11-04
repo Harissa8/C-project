@@ -1,0 +1,8 @@
+# Makefile
+default: programme
+
+programme: main.c signatures.h stb_image_write.h stb_image.h
+	gcc main.c -o programme -lm
+
+clean:
+	rm -f programme
